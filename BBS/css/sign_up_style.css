@@ -1,0 +1,90 @@
+div{
+    display: block;
+}
+.main{
+    height: 400px;
+    width: 500px;
+    margin: 0 auto;
+}
+/*헤더 부분*/
+header{
+    text-align: center;
+    margin-top: 50px;
+    height: 60px;
+}
+/*입력 부분*/
+#signup_id{
+    width: 480px;    
+    outline: none;
+    padding: 8px 50px;
+    border: solid 1px gainsboro;
+    border-radius: 10px;
+    background-color:white;
+}
+#signup_pw{
+    width: 480px;
+    border: solid 1px gainsboro;
+    outline: none;
+    padding: 8px 50px;
+    border-radius: 10px;
+    background-color:white;
+}
+#signup_repw{         
+    width: 480px;
+    outline: none;
+    padding: 8px 50px;
+    border: solid 1px gainsboro;
+    border-radius: 10px;
+    background-color:white;
+}
+#signup_name{
+    width: 480px;
+    outline: none;
+    padding: 8px 50px;
+    border: solid 1px gainsboro;
+    border-radius: 10px;
+    background-color:white;
+}
+#signup_address{
+    width: 480px;
+    outline: none;
+    padding: 8px 50px;
+    border: solid 1px gainsboro;
+    border-radius: 10px;
+    background-color:white;
+}
+#signup_code{
+    width: 480px;
+    outline: none;
+    padding: 8px 50px;
+    border: solid 1px gainsboro;
+    border-radius: 10px;
+    background-color:white;
+}
+
+.sendcode{
+    margin-top: 30px;
+    text-align: left;
+}
+#signup_sendcode{
+    outline: none;
+    padding: 8px 50px;
+    border: solid 1px gainsboro;
+    border-radius: 10px;
+    background-color:white;
+}
+
+button{
+    width: 480px;
+    height: 61.78px;
+    border: none;
+    display: inline-block;
+    padding: 15px 30px;
+    border-radius: 15px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+p{
+  margin: 10px;  
+}

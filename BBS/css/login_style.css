@@ -1,0 +1,82 @@
+div{
+    display: block;
+}
+ .main{
+    height: 400px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+ }
+ /*헤더 부분*/
+ header{
+    margin-top: 50px;
+    height: 100px;
+    text-align: center;
+ }
+ /*img{
+    height: 150px;
+    width: 150px;
+    margin-left: 20px;
+    margin-top: 10px;
+ }*/
+ /*로그인 부분*/
+ .login_id_wrap{
+   /*이미지 넣을거면 150px ~ ~ ~*/
+    margin: 0px 10px 8px 10px;
+    padding: 20px;
+    border: solid 1px gainsboro;
+    border-radius: 10px;
+    background-color:white;
+ }
+ .login_pw_wrap{
+    margin: 0px 10px 8px 10px;
+    padding: 20px;
+    border: solid 1px gainsboro;
+    border-radius: 10px;
+    background-color:white;
+ }
+ .login_btn_wrap button{
+    width: 480px;
+    height: 61.78px;
+    margin: 0px 10px 8px 10px;
+    border: none;
+    display: inline-block;
+    padding: 15px 30px;
+    border-radius: 15px;
+    text-decoration: none;
+    cursor: pointer;
+ }
+ #input_id{ 
+    border: none;
+    outline: none;
+    width: 100%;
+    font-size: 15px;
+ }
+ #input_pw{
+    border: none;
+    outline: none;
+    width: 100%;
+    font-size: 15px;
+ }
+ #login-btn {
+    width: 100px;
+    cursor: pointer;
+}
+ input{
+    cursor: pointer;
+ }
+ input[type="text" i]{
+    padding: 1px 2px;
+ }
+ /*회원가입 부분*/
+ .find_signup_wrap{    
+    margin-top: 5px;
+    font-size: 15px;
+ }
+ #signup{
+    margin:10px 10px ;
+ }
+ a{
+    text-decoration: none;
+    color: gray;
+ }
